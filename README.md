@@ -10,7 +10,7 @@ This project aims to describe the design and implementation of an embedded syste
 
 
 
-\[Water tanks setup.](images/TankConfiguration.png?raw=true "Figure 1”)
+!\[Water tanks setup.](images/TankConfiguration.png?raw=true "Figure 1")
 
 
 
@@ -18,7 +18,7 @@ The system collects data from an ultrasonic sensor that measures the water level
 
 
 
-\[Scheme of the system](images/SystemScheme.png?raw=true "Figure 2”)
+!\[Scheme of the system](images/SystemScheme.png?raw=true "Figure 2")
 
 
 
