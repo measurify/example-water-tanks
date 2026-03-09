@@ -1,8 +1,8 @@
-\# Control and Monitoring System for Interconnected Water Tanks
+# Control and Monitoring System for Interconnected Water Tanks
 
 
 
-\## Introduction
+## Introduction
 
 
 
@@ -10,7 +10,7 @@ This project aims to describe the design and implementation of an embedded syste
 
 
 
-!\[Water tanks setup.](images/TankConfiguration.png)
+![Water tanks setup.](images/TankConfiguration.png)
 
 
 
@@ -18,7 +18,7 @@ The system collects data from an ultrasonic sensor that measures the water level
 
 
 
-!\[Scheme of the system](images/SystemScheme.png)
+![Scheme of the system](images/SystemScheme.png)
 
 
 
@@ -30,11 +30,11 @@ Finally, the collected information is presented through a graphical user interfa
 
 
 
-\## Quick Start
+## Quick Start
 
 
 
-\### Control System and Parameters
+### Control System and Parameters
 
 To try the system presented in this thesis, you'll need two microcontrollers that support Wi-Fi and BLE. The lab experiments were conducted using ESP32-WROOM-32.
 
@@ -64,7 +64,7 @@ One time you finish setting up the previously mentioned parameters, you're ready
 
 
 
-\### Mobile App
+### Mobile App
 
 A user interface was designed and developped using flutter. If you're and android user you just open the file in VS Code and get the app\_release.apk file which you'll find in the following path:
 
